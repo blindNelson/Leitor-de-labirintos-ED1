@@ -1,7 +1,7 @@
 # Leitor-de-labirintos-ED1
 an application that reads and solves a maze
 
-#ma aplicação que lê e resolve um labirinto
+uma aplicação que lê e resolve um labirinto
 
 In the input "nome do arquivo:", open the folder 'src/labirintos' and write the name of one desired labyrinth
 
